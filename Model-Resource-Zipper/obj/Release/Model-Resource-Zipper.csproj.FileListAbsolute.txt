@@ -1,0 +1,9 @@
+C:\Users\imthemamma\Documents\Visual Studio 2008\Projects\Model-Resource-Zipper\Model-Resource-Zipper\bin\Release\Model-Resource-Zipper.exe
+C:\Users\imthemamma\Documents\Visual Studio 2008\Projects\Model-Resource-Zipper\Model-Resource-Zipper\bin\Release\Model-Resource-Zipper.pdb
+C:\Users\imthemamma\Documents\Visual Studio 2008\Projects\Model-Resource-Zipper\Model-Resource-Zipper\bin\Release\Ionic.Zip.dll
+C:\Users\imthemamma\Documents\Visual Studio 2008\Projects\Model-Resource-Zipper\Model-Resource-Zipper\obj\Release\ResolveAssemblyReference.cache
+C:\Users\imthemamma\Documents\Visual Studio 2008\Projects\Model-Resource-Zipper\Model-Resource-Zipper\obj\Release\Model_Resource_Zipper.Form1.resources
+C:\Users\imthemamma\Documents\Visual Studio 2008\Projects\Model-Resource-Zipper\Model-Resource-Zipper\obj\Release\Model_Resource_Zipper.Properties.Resources.resources
+C:\Users\imthemamma\Documents\Visual Studio 2008\Projects\Model-Resource-Zipper\Model-Resource-Zipper\obj\Release\Model-Resource-Zipper.csproj.GenerateResource.Cache
+C:\Users\imthemamma\Documents\Visual Studio 2008\Projects\Model-Resource-Zipper\Model-Resource-Zipper\obj\Release\Model-Resource-Zipper.exe
+C:\Users\imthemamma\Documents\Visual Studio 2008\Projects\Model-Resource-Zipper\Model-Resource-Zipper\obj\Release\Model-Resource-Zipper.pdb
